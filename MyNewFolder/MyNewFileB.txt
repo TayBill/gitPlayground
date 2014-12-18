@@ -1,3 +1,7 @@
 new content
+<<<<<<< HEAD
 new content at 12:05
 new content at 12:16
+=======
+More new content
+>>>>>>> bd4cd4bfb06d6931c5620c127d45f9ca861adf21
